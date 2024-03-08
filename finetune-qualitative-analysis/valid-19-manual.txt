@@ -1,0 +1,8 @@
+@startuml
+skinparam componentStyle rectangle
+
+component "Network reliability" as NR
+component "Network adaptability" as NA
+NR --> NA
+
+@enduml

@@ -1,0 +1,14 @@
+How to display the diagrams:
+    > java -jar plantuml.jar [text_file_name].txt
+    > example: java -jar plantuml.jar sequenceDiagram.txt
+
+Alternative: Launch the Graphical User Interface and select the directory that contains the text files
+    > java -jar plantuml.jar -gui
+
+State diagrams components
+    > start
+    > choice
+    > fork
+    > join
+    > end
+    > states

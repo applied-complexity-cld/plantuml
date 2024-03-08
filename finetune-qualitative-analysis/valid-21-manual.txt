@@ -1,0 +1,8 @@
+@startuml
+skinparam componentStyle rectangle
+
+component "Complementary work" as CW
+'component "Utilization of infrastructure" as UoI
+
+CW --> Use_of_Infrastructure
+@enduml

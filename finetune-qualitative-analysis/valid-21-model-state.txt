@@ -1,0 +1,7 @@
+@startuml
+hide empty description
+state end1    <<end>>
+
+Productivity --> end1 : to Use of Infrastructure
+
+@enduml

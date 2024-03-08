@@ -1,0 +1,6 @@
+@startuml
+state Business_operations    <<end>>
+
+start1 --> end1 : from complementary work\nto use of infrastructure
+
+@enduml

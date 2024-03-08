@@ -1,0 +1,8 @@
+@startuml
+skinparam componentStyle rectangle
+
+component "Security of supply" as SS
+component "Economic interests" as EI
+SS -[#red]-> EI
+
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+skinparam componentStyle rectangle
+
+component "Productivity" as P
+component "Business operations" as BO
+P --> BO
+
+@enduml
