@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore PyCharm cache
+.idea/
+
+# Jar files
+plantuml.jar
+
+# Jupyter notebook checkpoints
+/.ipynb_checkpoints/
