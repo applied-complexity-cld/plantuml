@@ -1,4 +1,4 @@
-# Plantuml :plant:
+# plantuml 🪴
 
 **How to run**
 
